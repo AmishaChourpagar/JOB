@@ -1,0 +1,227 @@
+body {
+	margin:0;
+	padding:0;
+	background-color:#FF0099;
+	
+}
+
+p,td { font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	margin-top: 0px;
+}
+
+/*
+  I have Change the Color:    
+
+a{
+	color: #E6D702;
+	text-decoration: underline;
+}*/
+
+
+/*a{
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+
+a:hover{
+	color: #FFFF66;
+	text-decoration: underline;
+}
+
+a.hidden {
+	text-decoration: none;
+	color: #000000;
+	cursor:default;
+}*/
+
+form {
+     margin:0;
+     padding:0;
+}
+
+ul {
+	margin-left:20px;
+	margin-top:0px;
+	padding:1px;
+	list-style-type: square;
+	line-height: 16px;
+	}
+
+h1 {
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+	margin: 0px;
+	padding-top: 6px;
+	padding-right: 18px;
+	padding-bottom: 6px;
+	text-transform: uppercase;
+	width: 405px;
+}
+
+.bgy {
+	background-repeat: repeat-y;
+}
+
+.bottom_addr {
+	font-size: 10px;
+	color: #FFFFFF;
+	padding-top: 8px;
+	padding-right: 10px;
+	padding-bottom: 8px;
+	padding-left: 18px;
+	background-image: url(../images/adr-bg.gif);
+	background-repeat: repeat-x;
+	background-position: top;
+}
+
+.bottom_addr a {
+	text-decoration: none;
+}
+
+.bottom_addr a:hover {
+	text-decoration: underline;
+}
+
+
+.bgx {
+	background-repeat: repeat-x;
+}
+
+
+.norepeat {
+	background-repeat: no-repeat;
+}
+
+.c_name {
+	font-size: 18px;
+	font-weight: bold;
+	text-transform: none;
+	color: #FFFFFF;
+	background-repeat: repeat;
+	background-image: url(../images/cn_bg.jpg);
+	font-family: Tahoma, Arial;
+	padding-left: 8px;
+	vertical-align: middle;
+}
+
+
+.bottom-menu {
+	color: #000000;
+	text-align: left;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 262px;
+	padding-left: 18px;
+}
+
+.bottom-menu a {
+	color: #000000;
+	text-decoration: none;
+}
+
+.bottom-menu a:hover {
+	color: #000000;
+	text-decoration: underline;
+}
+
+.menu {
+	color: #ffffff;
+	font-weight: bold;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Tahoma, Arial;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.m1 {
+	color: #ee0000;
+	font-weight: bold;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Tahoma, Arial;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.menu a{
+	text-decoration: none;
+	color: #000000;
+	white-space: nowrap;
+	text-align: center;
+}
+
+.menu a:hover {
+	color: #000000;
+	text-decoration: underline;
+	text-align: center;
+}
+
+
+.sub {
+	color: #e2aa0f;
+	text-transform: none;
+	vertical-align: top;
+	padding-top: 4px;
+	padding-right: 5px;
+}
+
+.sub a{
+	color: #e2aa0f;
+	text-decoration: none;
+}
+.r-float {
+	float: right;
+	margin-top: 7px;
+	margin-bottom: 4px;
+	margin-left: 10px;
+}
+
+.r-title {
+	color: #000000;
+	background-image: url(../images/r-block-title.gif);
+	background-repeat: no-repeat;
+	padding-top: 5px;
+	padding-right: 4px;
+	padding-bottom: 4px;
+	padding-left: 18px;
+	font-family: Tahoma, Arial;
+	font-size: 14px;
+	font-weight: bold;
+}
+.r-cont {
+	color: #FFFFFF;
+	padding-top: 5px;
+	padding-right: 18px;
+	padding-bottom: 5px;
+	padding-left: 18px;
+	text-align: justify;
+	vertical-align: top;
+}
+
+
+
+.sub a:hover {
+	color: #e2aa0f;
+	text-decoration: underline;
+}
+
+
+.body_txt {
+	color: #FFFFFF;
+	text-align: justify;
+	vertical-align: top;
+	padding-top: 6px;
+	padding-right: 15px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+}
+#logo{
+	position:absolute;
+	width:24px;
+	top: 86px;
+	margin-left: 12px;
+	left: 176px;
+	height: 199px;
+}
+#logo td{font-family: "trebuchet MS";	font-size: 26px;	color: #f12b2f; padding:5px;}
